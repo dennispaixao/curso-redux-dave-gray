@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": "1711297610400921",
+      "userId": 1,
+      "title": "instalar e rodar a aula 7",
+      "completed": false
+    },
+    {
+      "id": "1711297620040804",
+      "userId": 1,
+      "title": "estudar a aula 7",
+      "completed": false
+    },
+    {
+      "id": "1711297627504585",
+      "userId": 1,
+      "title": "instalar e rodar a aula 8",
+      "completed": false
+    },
+    {
+      "id": "1711297636091566",
+      "userId": 1,
+      "title": "estudar a aula 8",
+      "completed": false
+    }
+  ]
+}
